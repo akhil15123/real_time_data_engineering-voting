@@ -78,5 +78,3 @@ streamlit run streamlit-app.py
 ![voting.png](images%2Fvoting.png)
 
 
-## Video
-[![Realtime Voting System Data Engineering](https://img.youtube.com/vi/X-JnC9daQxE/0.jpg)](https://youtu.be/X-JnC9daQxE)
